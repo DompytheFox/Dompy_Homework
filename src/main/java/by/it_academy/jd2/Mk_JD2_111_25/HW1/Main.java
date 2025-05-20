@@ -1,4 +1,4 @@
-package by.it_academy.jd2.Mk_JD2_111_25.HW1;
+package by.it_academy.jd2.Mk_DompytheFox_111_25.HW1;
 
 import java.util.Scanner;
 
